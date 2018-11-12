@@ -16,4 +16,4 @@ spring:
           searchPaths: cloud-config
   application:
     name: config-server
-hello:aaa
+hello:Hello World from GIT
