@@ -1,19 +1,1 @@
-eureka:
-  client:
-    registerWithEureka: false
-    fetchRegistry: false
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka/
-server:
-  port: 8888
-
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/LuHaikun/cloud-micro-service
-          searchPaths: cloud-config
-  application:
-    name: config-server
 hello:Hello World from GIT
