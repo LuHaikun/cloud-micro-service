@@ -1,0 +1,469 @@
+2019-01-02-10-56 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-10-56 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-10-56 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 71ms. Found 1 repository interfaces.
+2019-01-02-10-56 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-10-56 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-10-56 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport] [INFO] - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.cloud.provider.dao.MenuRepository.
+2019-01-02-10-56 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 7ms. Found 0 repository interfaces.
+2019-01-02-10-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-10-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-10-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 48ms. Found 1 repository interfaces.
+2019-01-02-10-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-10-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-10-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport] [INFO] - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.cloud.provider.dao.MenuRepository.
+2019-01-02-10-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-01-02-11-02 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-11-02 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-11-02 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 56ms. Found 1 repository interfaces.
+2019-01-02-11-02 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-11-02 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-11-02 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport] [INFO] - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.cloud.provider.dao.MenuRepository.
+2019-01-02-11-02 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2019-01-02-11-14 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-11-14 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-11-14 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 52ms. Found 1 repository interfaces.
+2019-01-02-11-14 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-11-14 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-11-14 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport] [INFO] - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.cloud.provider.dao.MenuRepository.
+2019-01-02-11-14 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 9ms. Found 0 repository interfaces.
+2019-01-02-11-14 [restartedMain] [org.springframework.data.elasticsearch.client.TransportClientFactoryBean] [INFO] - Adding transport node : 127.0.0.1:9200
+2019-01-02-11-15 [restartedMain] [org.springframework.data.elasticsearch.repository.support.AbstractElasticsearchRepository] [ERROR] - failed to load elasticsearch nodes : org.elasticsearch.client.transport.NoNodeAvailableException: None of the configured nodes are available: [{#transport#-1}{COvFTjbqSdOaxsAlaVzN7Q}{127.0.0.1}{127.0.0.1:9200}]
+2019-01-02-11-15 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2019-01-02-11-15 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-02-11-15 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2019-01-02-11-15 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1546398915164 with initial instances count: 0
+2019-01-02-11-15 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1546398915692, current=UP, previous=STARTING]
+2019-01-02-11-15 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2019-01-02-11-15 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2019-01-02-11-15 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2019-01-02-11-15 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2019-01-02-11-15 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2019-01-02-11-15 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2019-01-02-11-15 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2019-01-02-11-15 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2019-01-02-11-15 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2019-01-02-11-15 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2019-01-02-11-15 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: false
+2019-01-02-11-15 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2019-01-02-11-15 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：queryImsAccountList
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.MenuController
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[menuId]
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : [1]
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.MenuController.queryImsAccountList
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/queryMenuById
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - name:menuId,value:1
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【开始打印异常信息】================
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - 具体错误信息:【None of the configured nodes are available: [{#transport#-1}{COvFTjbqSdOaxsAlaVzN7Q}{127.0.0.1}{127.0.0.1:9200}]】
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.ensureNodesAreAvailable(TransportClientNodesService.java:349)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.execute(TransportClientNodesService.java:247)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportProxyClient.execute(TransportProxyClient.java:60)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClient.doExecute(TransportClient.java:381)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:407)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:396)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.action.ActionRequestBuilder.execute(ActionRequestBuilder.java:46)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.getSearchResponse(ElasticsearchTemplate.java:946)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.queryForPage(ElasticsearchTemplate.java:369)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.queryForObject(ElasticsearchTemplate.java:295)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.repository.query.ElasticsearchPartQuery.execute(ElasticsearchPartQuery.java:81)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:605)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:59)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.SurroundingTransactionDetectorMethodInterceptor.invoke(SurroundingTransactionDetectorMethodInterceptor.java:61)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+2019-01-02-11-17 [http-nio-8762-exec-8] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【异常信息打印完毕】================
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：queryImsAccountList
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.MenuController
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[menuId]
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : [1]
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.MenuController.queryImsAccountList
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/queryMenuById
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - name:menuId,value:1
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【开始打印异常信息】================
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - 具体错误信息:【None of the configured nodes are available: [{#transport#-1}{COvFTjbqSdOaxsAlaVzN7Q}{127.0.0.1}{127.0.0.1:9200}]】
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.ensureNodesAreAvailable(TransportClientNodesService.java:349)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.execute(TransportClientNodesService.java:247)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportProxyClient.execute(TransportProxyClient.java:60)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClient.doExecute(TransportClient.java:381)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:407)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:396)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.action.ActionRequestBuilder.execute(ActionRequestBuilder.java:46)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.getSearchResponse(ElasticsearchTemplate.java:946)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.queryForPage(ElasticsearchTemplate.java:369)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.queryForObject(ElasticsearchTemplate.java:295)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.repository.query.ElasticsearchPartQuery.execute(ElasticsearchPartQuery.java:81)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:605)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:59)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.SurroundingTransactionDetectorMethodInterceptor.invoke(SurroundingTransactionDetectorMethodInterceptor.java:61)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+2019-01-02-11-17 [http-nio-8762-exec-7] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【异常信息打印完毕】================
+2019-01-02-11-18 [Thread-94] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1546399131794, current=DOWN, previous=UP]
+2019-01-02-11-18 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2019-01-02-11-18 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2019-01-02-11-18 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-11-18 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-11-18 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 82ms. Found 1 repository interfaces.
+2019-01-02-11-18 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-11-18 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-11-18 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport] [INFO] - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.cloud.provider.dao.MenuRepository.
+2019-01-02-11-18 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 7ms. Found 0 repository interfaces.
+2019-01-02-11-19 [restartedMain] [org.springframework.data.elasticsearch.client.TransportClientFactoryBean] [INFO] - Adding transport node : 127.0.0.1:9200
+2019-01-02-11-19 [restartedMain] [org.springframework.data.elasticsearch.repository.support.AbstractElasticsearchRepository] [ERROR] - failed to load elasticsearch nodes : org.elasticsearch.client.transport.NoNodeAvailableException: None of the configured nodes are available: [{#transport#-1}{LA47pT9TSdalyawLB6nAog}{127.0.0.1}{127.0.0.1:9200}]
+2019-01-02-11-19 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2019-01-02-11-19 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-02-11-19 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2019-01-02-11-19 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1546399176417 with initial instances count: 1
+2019-01-02-11-19 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1546399176753, current=UP, previous=STARTING]
+2019-01-02-11-19 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2019-01-02-11-19 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2019-01-02-11-19 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2019-01-02-11-19 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2019-01-02-11-19 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：queryMenuById
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.MenuController
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[menuId]
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : [1]
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.MenuController.queryMenuById
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/queryMenuById
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - name:menuId,value:1
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【开始打印异常信息】================
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - 具体错误信息:【None of the configured nodes are available: [{#transport#-1}{LA47pT9TSdalyawLB6nAog}{127.0.0.1}{127.0.0.1:9200}]】
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.ensureNodesAreAvailable(TransportClientNodesService.java:349)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.execute(TransportClientNodesService.java:247)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportProxyClient.execute(TransportProxyClient.java:60)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClient.doExecute(TransportClient.java:381)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:407)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:396)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.action.ActionRequestBuilder.execute(ActionRequestBuilder.java:46)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.getSearchResponse(ElasticsearchTemplate.java:946)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.queryForPage(ElasticsearchTemplate.java:369)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.queryForObject(ElasticsearchTemplate.java:295)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.repository.query.ElasticsearchPartQuery.execute(ElasticsearchPartQuery.java:81)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:605)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:59)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:93)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.SurroundingTransactionDetectorMethodInterceptor.invoke(SurroundingTransactionDetectorMethodInterceptor.java:61)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+2019-01-02-11-20 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【异常信息打印完毕】================
+2019-01-02-11-24 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2019-01-02-11-29 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2019-01-02-13-46 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2019-01-02-13-50 [Thread-91] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1546408222608, current=DOWN, previous=UP]
+2019-01-02-13-50 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2019-01-02-13-50 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2019-01-02-13-50 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-13-50 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-13-50 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 61ms. Found 1 repository interfaces.
+2019-01-02-13-50 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-13-50 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-13-50 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport] [INFO] - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.cloud.provider.dao.MenuRepository.
+2019-01-02-13-50 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 6ms. Found 0 repository interfaces.
+2019-01-02-13-50 [restartedMain] [org.springframework.data.elasticsearch.client.TransportClientFactoryBean] [INFO] - Adding transport node : 127.0.0.1:9200
+2019-01-02-13-51 [restartedMain] [org.springframework.data.elasticsearch.repository.support.AbstractElasticsearchRepository] [ERROR] - failed to load elasticsearch nodes : org.elasticsearch.client.transport.NoNodeAvailableException: None of the configured nodes are available: [{#transport#-1}{iSjbfLTfTpGeNFRVdpMI7Q}{127.0.0.1}{127.0.0.1:9200}]
+2019-01-02-13-51 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2019-01-02-13-51 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-02-13-51 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2019-01-02-13-51 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1546408269377 with initial instances count: 1
+2019-01-02-13-51 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1546408269986, current=UP, previous=STARTING]
+2019-01-02-13-51 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2019-01-02-13-51 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2019-01-02-13-51 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2019-01-02-13-51 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2019-01-02-13-51 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：queryMenuById
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.MenuController
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[menuId]
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : [1]
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.MenuController.queryMenuById
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/queryMenuById
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - name:menuId,value:1
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【开始打印异常信息】================
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - 具体错误信息:【None of the configured nodes are available: [{#transport#-1}{iSjbfLTfTpGeNFRVdpMI7Q}{127.0.0.1}{127.0.0.1:9200}]】
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.ensureNodesAreAvailable(TransportClientNodesService.java:349)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.execute(TransportClientNodesService.java:247)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportProxyClient.execute(TransportProxyClient.java:60)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClient.doExecute(TransportClient.java:381)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:407)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:396)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.action.ActionRequestBuilder.execute(ActionRequestBuilder.java:46)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.doCount(ElasticsearchTemplate.java:501)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.count(ElasticsearchTemplate.java:479)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.repository.support.AbstractElasticsearchRepository.search(AbstractElasticsearchRepository.java:198)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - java.lang.reflect.Method.invoke(Method.java:498)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryComposition$RepositoryFragments.invoke(RepositoryComposition.java:359)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryComposition.invoke(RepositoryComposition.java:200)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$ImplementationMethodExecutionInterceptor.invoke(RepositoryFactorySupport.java:644)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:608)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-13-52 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【异常信息打印完毕】================
+2019-01-02-13-56 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2019-01-02-13-56 [Thread-94] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1546408606401, current=DOWN, previous=UP]
+2019-01-02-13-56 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2019-01-02-13-56 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2019-01-02-13-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-13-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-13-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 62ms. Found 1 repository interfaces.
+2019-01-02-13-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-13-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-13-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport] [INFO] - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.cloud.provider.dao.MenuRepository.
+2019-01-02-13-57 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-01-02-13-57 [restartedMain] [org.springframework.data.elasticsearch.client.TransportClientFactoryBean] [INFO] - Adding transport node : 127.0.0.1:9200
+2019-01-02-13-58 [restartedMain] [org.springframework.data.elasticsearch.repository.support.AbstractElasticsearchRepository] [ERROR] - failed to load elasticsearch nodes : org.elasticsearch.client.transport.NoNodeAvailableException: None of the configured nodes are available: [{#transport#-1}{WsC7288JQca2NOtZuK6d6w}{127.0.0.1}{127.0.0.1:9200}]
+2019-01-02-13-58 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2019-01-02-13-58 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-02-13-58 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2019-01-02-13-58 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1546408704178 with initial instances count: 1
+2019-01-02-13-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1546408704599, current=UP, previous=STARTING]
+2019-01-02-13-58 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2019-01-02-13-58 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2019-01-02-13-58 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2019-01-02-13-58 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2019-01-02-13-58 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：queryMenuById
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.MenuController
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[menuId]
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : [1]
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.MenuController.queryMenuById
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/queryMenuById
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - name:menuId,value:1
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【开始打印异常信息】================
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - 具体错误信息:【None of the configured nodes are available: [{#transport#-1}{WsC7288JQca2NOtZuK6d6w}{127.0.0.1}{127.0.0.1:9200}]】
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.ensureNodesAreAvailable(TransportClientNodesService.java:349)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.execute(TransportClientNodesService.java:247)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportProxyClient.execute(TransportProxyClient.java:60)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClient.doExecute(TransportClient.java:381)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:407)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:396)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.action.ActionRequestBuilder.execute(ActionRequestBuilder.java:46)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.doCount(ElasticsearchTemplate.java:501)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.count(ElasticsearchTemplate.java:479)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.repository.support.AbstractElasticsearchRepository.search(AbstractElasticsearchRepository.java:198)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - java.lang.reflect.Method.invoke(Method.java:498)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryComposition$RepositoryFragments.invoke(RepositoryComposition.java:359)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryComposition.invoke(RepositoryComposition.java:200)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$ImplementationMethodExecutionInterceptor.invoke(RepositoryFactorySupport.java:644)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:608)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-13-58 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【异常信息打印完毕】================
+2019-01-02-14-03 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2019-01-02-14-08 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2019-01-02-14-13 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2019-01-02-14-15 [Thread-94] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1546409732031, current=DOWN, previous=UP]
+2019-01-02-14-15 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2019-01-02-14-15 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2019-01-02-14-15 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-14-15 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-14-15 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 75ms. Found 1 repository interfaces.
+2019-01-02-14-15 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-01-02-14-15 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-02-14-15 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport] [INFO] - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.cloud.provider.dao.MenuRepository.
+2019-01-02-14-15 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 5ms. Found 0 repository interfaces.
+2019-01-02-14-15 [restartedMain] [org.springframework.data.elasticsearch.client.TransportClientFactoryBean] [INFO] - Adding transport node : 127.0.0.1:9200
+2019-01-02-14-16 [restartedMain] [org.springframework.data.elasticsearch.repository.support.AbstractElasticsearchRepository] [ERROR] - failed to load elasticsearch nodes : org.elasticsearch.client.transport.NoNodeAvailableException: None of the configured nodes are available: [{#transport#-1}{9kTfbCooSZ6cPeLoNYmbQQ}{127.0.0.1}{127.0.0.1:9200}]
+2019-01-02-14-16 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2019-01-02-14-16 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-02-14-16 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2019-01-02-14-16 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1546409782073 with initial instances count: 1
+2019-01-02-14-16 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1546409782496, current=UP, previous=STARTING]
+2019-01-02-14-16 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2019-01-02-14-16 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2019-01-02-14-16 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2019-01-02-14-16 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2019-01-02-14-16 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：queryMenuById
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.MenuController
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[menuId]
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : [1]
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.MenuController.queryMenuById
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/queryMenuById
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - name:menuId,value:1
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【开始打印异常信息】================
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - 具体错误信息:【None of the configured nodes are available: [{#transport#-1}{9kTfbCooSZ6cPeLoNYmbQQ}{127.0.0.1}{127.0.0.1:9200}]】
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.ensureNodesAreAvailable(TransportClientNodesService.java:349)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.execute(TransportClientNodesService.java:247)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportProxyClient.execute(TransportProxyClient.java:60)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClient.doExecute(TransportClient.java:381)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:407)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:396)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.action.ActionRequestBuilder.execute(ActionRequestBuilder.java:46)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.doCount(ElasticsearchTemplate.java:501)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.count(ElasticsearchTemplate.java:479)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.repository.support.AbstractElasticsearchRepository.search(AbstractElasticsearchRepository.java:198)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - java.lang.reflect.Method.invoke(Method.java:498)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryComposition$RepositoryFragments.invoke(RepositoryComposition.java:359)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryComposition.invoke(RepositoryComposition.java:200)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$ImplementationMethodExecutionInterceptor.invoke(RepositoryFactorySupport.java:644)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:608)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-14-16 [http-nio-8762-exec-1] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【异常信息打印完毕】================
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：queryMenuById
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.MenuController
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[menuId]
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : [1]
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.MenuController.queryMenuById
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/queryMenuById
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - name:menuId,value:1
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【开始打印异常信息】================
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - 具体错误信息:【None of the configured nodes are available: [{#transport#-1}{9kTfbCooSZ6cPeLoNYmbQQ}{127.0.0.1}{127.0.0.1:9200}]】
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.ensureNodesAreAvailable(TransportClientNodesService.java:349)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClientNodesService.execute(TransportClientNodesService.java:247)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportProxyClient.execute(TransportProxyClient.java:60)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.transport.TransportClient.doExecute(TransportClient.java:381)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:407)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.client.support.AbstractClient.execute(AbstractClient.java:396)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.elasticsearch.action.ActionRequestBuilder.execute(ActionRequestBuilder.java:46)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.doCount(ElasticsearchTemplate.java:501)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.core.ElasticsearchTemplate.count(ElasticsearchTemplate.java:479)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.elasticsearch.repository.support.AbstractElasticsearchRepository.search(AbstractElasticsearchRepository.java:198)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - java.lang.reflect.Method.invoke(Method.java:498)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryComposition$RepositoryFragments.invoke(RepositoryComposition.java:359)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryComposition.invoke(RepositoryComposition.java:200)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$ImplementationMethodExecutionInterceptor.invoke(RepositoryFactorySupport.java:644)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.doInvoke(RepositoryFactorySupport.java:608)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.lambda$invoke$3(RepositoryFactorySupport.java:595)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.data.repository.core.support.RepositoryFactorySupport$QueryExecutorMethodInterceptor.invoke(RepositoryFactorySupport.java:595)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [ERROR] - org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+2019-01-02-14-17 [http-nio-8762-exec-3] [com.cloud.provider.exception.GlobalExceptionHandler] [INFO] - ================【异常信息打印完毕】================
+2019-01-02-14-18 [Thread-98] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1546409884718, current=DOWN, previous=UP]
+2019-01-02-14-18 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2019-01-02-14-18 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204

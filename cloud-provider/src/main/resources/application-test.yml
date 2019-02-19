@@ -1,0 +1,87 @@
+server:
+  port: 8762
+
+spring:
+  application:
+    name: eureka-provider
+  freemarker:
+    cache: false
+    charset: UTF-8
+    content-type: text/html
+    suffix: .html
+    check-template-location: true
+    template-loader-path: classpath:/templates
+    expose-request-attributes: true
+    expose-session-attributes: true
+    expose-spring-macro-helpers: true
+    request-context-attribute: request
+    settings:
+      default_encoding: UTF-8
+      output_encoding: UTF-8
+      url_escaping_charset: UTF-8
+      tag_syntax: auto_detect
+      locale: zh_CN
+      datetime_format: yyyy-MM-dd HH:mm:ss
+      date_format: yyyy-MM-dd
+      time_format: HH:mm:ss
+  datasource:
+    url : jdbc:mysql://localhost:3306/yufulian
+    username : root
+    password : root
+    driver-class-name : com.mysql.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource # 使用druid数据源
+
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: rabbit
+    password: rabbit
+    publisher-confirms: true    #  消息发送到交换机确认机制,是否确认回调
+    listener:
+      simple:
+        retry:
+          enabled: true
+          max-attempts: 5
+          initial-interval: 2000
+        default-requeue-rejected: false
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    timeout: 60s
+    jedis:
+      pool:
+        # 最大空闲连接数
+        max-idle: 500
+        # 最小空闲连接数
+        min-idle: 50
+        # 等待可用连接的最大时间，负数为不限制
+        max-wait:  -1s
+        # 最大活跃连接数，负数为不限制
+        max-active: -1
+  devtools:
+    restart:
+      enabled: false #热部署生效
+      additional-paths: src/main/java #设置重启的目录
+      exclude: templates/** #classpath目录下的WEB-INF文件夹内容修改不重启
+  zipkin:
+    base-url: http://localhost:9999
+  sleuth:
+    sampler:
+      percentage: 1.0
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch
+      cluster-nodes: 127.0.0.1:9200
+      repositories:
+        enabled: true
+
+
+#指定mybatis映射文件的地址
+mybatis:
+  typeAliasesPackage: com.cloud.provider.modal
+  mapper-locations: classpath:mapper/*.xml
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

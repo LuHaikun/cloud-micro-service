@@ -1,0 +1,950 @@
+2018-11-16-09-58 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.13.Final
+2018-11-16-09-58 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-09-58 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$3e26b978] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-09-58 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-09-58 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2018-11-16-09-58 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - The following profiles are active: test
+2018-11-16-09-58 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-16-09-58 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-11-16-09-58 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2018-11-16-09-58 [restartedMain] [org.springframework.cloud.context.scope.GenericScope] [INFO] - BeanFactory id=29aef68b-d086-3662-951b-9ad60a24bb0d
+2018-11-16-09-58 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$e87874a9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-09-58 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$220cb67b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-09-58 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'redisConfig' of type [com.cloud.provider.redis.RedisConfig$$EnhancerBySpringCGLIB$$d2ae8133] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-09-58 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$3e26b978] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-09-58 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8762 (http)
+2018-11-16-09-58 [restartedMain] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 2236 ms
+2018-11-16-09-58 [restartedMain] [org.springframework.boot.web.servlet.ServletRegistrationBean] [INFO] - Servlet dispatcherServlet mapped to [/]
+2018-11-16-09-58 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-16-09-58 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-16-09-58 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-16-09-58 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-16-09-58 [restartedMain] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [INFO] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2018-11-16-09-58 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-09-58 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-09-58 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-09-58 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-09-58 [restartedMain] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-16-09-58 [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [INFO] - LiveReload server is running on port 35729
+2018-11-16-09-58 [restartedMain] [org.springframework.cloud.netflix.eureka.InstanceInfoFactory] [INFO] - Setting initial instance status as: STARTING
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1542333524917 with initial instances count: 0
+2018-11-16-09-58 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Registering application eureka-provider with eureka with status UP
+2018-11-16-09-58 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1542333525226, current=UP, previous=STARTING]
+2018-11-16-09-58 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-09-58 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2018-11-16-09-58 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2018-11-16-09-58 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2018-11-16-09-58 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-09-58 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Attempting to connect to: [127.0.0.1:5672]
+2018-11-16-09-58 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Created new connection: rabbitConnectionFactory#18ad3a5f:0/SimpleConnection@17b571cb [delegate=amqp://guest@127.0.0.1:5672/, localPort= 50748]
+2018-11-16-09-58 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-09-58 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-09-58 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-09-58 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-09-58 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-09-58 [restartedMain] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Broker not available; cannot force queue declarations during start
+2018-11-16-09-58 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8762 (http) with context path ''
+2018-11-16-09-58 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration] [INFO] - Updating port to 8762
+2018-11-16-09-58 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - Started CloudProviderApplication in 20.051 seconds (JVM running for 20.965)
+2018-11-16-09-59 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2018-11-16-09-59 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2018-11-16-09-59 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2018-11-16-09-59 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2018-11-16-09-59 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2018-11-16-09-59 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: false
+2018-11-16-09-59 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2018-11-16-09-59 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2018-11-16-09-59 [Thread-52] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Unregistering application eureka-provider with eureka with status DOWN
+2018-11-16-09-59 [Thread-52] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1542333571125, current=DOWN, previous=UP]
+2018-11-16-09-59 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-09-59 [Thread-52] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Waiting for workers to finish.
+2018-11-16-09-59 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-09-59 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.13.Final
+2018-11-16-09-59 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-09-59 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$73a75ad] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-09-59 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-09-59 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2018-11-16-09-59 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - The following profiles are active: test
+2018-11-16-09-59 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-16-09-59 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-11-16-09-59 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2018-11-16-09-59 [restartedMain] [org.springframework.cloud.context.scope.GenericScope] [INFO] - BeanFactory id=29aef68b-d086-3662-951b-9ad60a24bb0d
+2018-11-16-09-59 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$b18c30de] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-09-59 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$eb2072b0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-09-59 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'redisConfig' of type [com.cloud.provider.redis.RedisConfig$$EnhancerBySpringCGLIB$$9bc23d68] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-09-59 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$73a75ad] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-09-59 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8762 (http)
+2018-11-16-09-59 [restartedMain] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 1847 ms
+2018-11-16-09-59 [restartedMain] [org.springframework.boot.web.servlet.ServletRegistrationBean] [INFO] - Servlet dispatcherServlet mapped to [/]
+2018-11-16-09-59 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-16-09-59 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-16-09-59 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-16-09-59 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-16-09-59 [restartedMain] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [INFO] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2018-11-16-09-59 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-09-59 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-09-59 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-09-59 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-09-59 [restartedMain] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-16-09-59 [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [INFO] - LiveReload server is running on port 35729
+2018-11-16-09-59 [restartedMain] [org.springframework.cloud.netflix.eureka.InstanceInfoFactory] [INFO] - Setting initial instance status as: STARTING
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1542333588273 with initial instances count: 1
+2018-11-16-09-59 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Registering application eureka-provider with eureka with status UP
+2018-11-16-09-59 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1542333588512, current=UP, previous=STARTING]
+2018-11-16-09-59 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-09-59 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2018-11-16-09-59 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2018-11-16-09-59 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-09-59 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2018-11-16-09-59 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Attempting to connect to: [127.0.0.1:5672]
+2018-11-16-09-59 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Created new connection: rabbitConnectionFactory#5fdf2606:0/SimpleConnection@7a28dfbe [delegate=amqp://guest@127.0.0.1:5672/, localPort= 50997]
+2018-11-16-09-59 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-09-59 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-09-59 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-09-59 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-10-00 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-10-00 [restartedMain] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Broker not available; cannot force queue declarations during start
+2018-11-16-10-00 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8762 (http) with context path ''
+2018-11-16-10-00 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration] [INFO] - Updating port to 8762
+2018-11-16-10-00 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - Started CloudProviderApplication in 18.864 seconds (JVM running for 19.613)
+2018-11-16-10-01 [http-nio-8762-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Initializing Servlet 'dispatcherServlet'
+2018-11-16-10-01 [http-nio-8762-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Completed initialization in 14 ms
+2018-11-16-10-01 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：helloWorld
+2018-11-16-10-01 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.HelloWorldController
+2018-11-16-10-01 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[]
+2018-11-16-10-01 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : []
+2018-11-16-10-01 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.HelloWorldController.helloWorld
+2018-11-16-10-01 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/helloWorld
+2018-11-16-10-01 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2018-11-16-10-01 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2018-11-16-10-01 [http-nio-8762-exec-2] [com.cloud.provider.controller.rest.HelloWorldController] [INFO] - 前台日志：HelloWorld---port:8762
+2018-11-16-10-01 [http-nio-8762-exec-2] [io.lettuce.core.EpollProvider] [INFO] - Starting without optional epoll library
+2018-11-16-10-01 [http-nio-8762-exec-2] [io.lettuce.core.KqueueProvider] [INFO] - Starting without optional kqueue library
+2018-11-16-10-02 [Thread-49] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Unregistering application eureka-provider with eureka with status DOWN
+2018-11-16-10-02 [Thread-49] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1542333739342, current=DOWN, previous=UP]
+2018-11-16-10-02 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-10-02 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-10-02 [Thread-49] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Waiting for workers to finish.
+2018-11-16-10-02 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.13.Final
+2018-11-16-10-02 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-10-02 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$f3f5355f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-10-02 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-10-02 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2018-11-16-10-02 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - The following profiles are active: test
+2018-11-16-10-02 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-16-10-02 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-11-16-10-02 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 15ms. Found 0 repository interfaces.
+2018-11-16-10-02 [restartedMain] [org.springframework.cloud.context.scope.GenericScope] [INFO] - BeanFactory id=29aef68b-d086-3662-951b-9ad60a24bb0d
+2018-11-16-10-02 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$9e46f090] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-10-02 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d7db3262] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-10-02 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'redisConfig' of type [com.cloud.provider.redis.RedisConfig$$EnhancerBySpringCGLIB$$887cfd1a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-10-02 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$f3f5355f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-10-02 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8762 (http)
+2018-11-16-10-02 [restartedMain] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 2826 ms
+2018-11-16-10-02 [restartedMain] [org.springframework.boot.web.servlet.ServletRegistrationBean] [INFO] - Servlet dispatcherServlet mapped to [/]
+2018-11-16-10-02 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-16-10-02 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-16-10-02 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-16-10-02 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-16-10-02 [restartedMain] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [INFO] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2018-11-16-10-02 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-10-02 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-10-02 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-10-02 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-10-02 [restartedMain] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-16-10-02 [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [INFO] - LiveReload server is running on port 35729
+2018-11-16-10-02 [restartedMain] [org.springframework.cloud.netflix.eureka.InstanceInfoFactory] [INFO] - Setting initial instance status as: STARTING
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1542333752255 with initial instances count: 1
+2018-11-16-10-02 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Registering application eureka-provider with eureka with status UP
+2018-11-16-10-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1542333752536, current=UP, previous=STARTING]
+2018-11-16-10-02 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-10-02 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2018-11-16-10-02 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2018-11-16-10-02 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-10-02 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2018-11-16-10-02 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Attempting to connect to: [127.0.0.1:5672]
+2018-11-16-10-02 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Created new connection: rabbitConnectionFactory#1d79193:0/SimpleConnection@24e14fca [delegate=amqp://guest@127.0.0.1:5672/, localPort= 51763]
+2018-11-16-10-02 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-10-02 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-10-02 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-10-02 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-10-02 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-10-02 [restartedMain] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Broker not available; cannot force queue declarations during start
+2018-11-16-10-02 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8762 (http) with context path ''
+2018-11-16-10-02 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration] [INFO] - Updating port to 8762
+2018-11-16-10-02 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - Started CloudProviderApplication in 20.83 seconds (JVM running for 21.746)
+2018-11-16-10-02 [http-nio-8762-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Initializing Servlet 'dispatcherServlet'
+2018-11-16-10-02 [http-nio-8762-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Completed initialization in 12 ms
+2018-11-16-10-06 [Thread-52] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Unregistering application eureka-provider with eureka with status DOWN
+2018-11-16-10-06 [Thread-52] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1542334001917, current=DOWN, previous=UP]
+2018-11-16-10-06 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-10-06 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-10-06 [Thread-52] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Waiting for workers to finish.
+2018-11-16-10-06 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.13.Final
+2018-11-16-10-06 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-10-06 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$8ebe2c59] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-10-06 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-10-06 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2018-11-16-10-06 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - The following profiles are active: test
+2018-11-16-10-06 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-16-10-06 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-11-16-10-06 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 148ms. Found 0 repository interfaces.
+2018-11-16-10-06 [restartedMain] [org.springframework.cloud.context.scope.GenericScope] [INFO] - BeanFactory id=29aef68b-d086-3662-951b-9ad60a24bb0d
+2018-11-16-10-06 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$390fe78a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-10-06 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$72a4295c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-10-06 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'redisConfig' of type [com.cloud.provider.redis.RedisConfig$$EnhancerBySpringCGLIB$$2345f414] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-10-06 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$8ebe2c59] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-10-06 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8762 (http)
+2018-11-16-10-06 [restartedMain] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 2651 ms
+2018-11-16-10-06 [restartedMain] [org.springframework.boot.web.servlet.ServletRegistrationBean] [INFO] - Servlet dispatcherServlet mapped to [/]
+2018-11-16-10-06 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-16-10-06 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-16-10-06 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-16-10-06 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-16-10-06 [restartedMain] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [INFO] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2018-11-16-10-06 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-10-06 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-10-06 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-10-06 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-10-06 [restartedMain] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-16-10-06 [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [INFO] - LiveReload server is running on port 35729
+2018-11-16-10-06 [restartedMain] [org.springframework.cloud.netflix.eureka.InstanceInfoFactory] [INFO] - Setting initial instance status as: STARTING
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1542334012746 with initial instances count: 1
+2018-11-16-10-06 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Registering application eureka-provider with eureka with status UP
+2018-11-16-10-06 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1542334012939, current=UP, previous=STARTING]
+2018-11-16-10-06 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-10-06 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2018-11-16-10-06 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2018-11-16-10-06 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-10-06 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2018-11-16-10-06 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Attempting to connect to: [127.0.0.1:5672]
+2018-11-16-10-06 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Created new connection: rabbitConnectionFactory#405b87fb:0/SimpleConnection@13591d44 [delegate=amqp://guest@127.0.0.1:5672/, localPort= 52955]
+2018-11-16-10-06 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-10-06 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-10-06 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-10-07 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-10-07 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-10-07 [restartedMain] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Broker not available; cannot force queue declarations during start
+2018-11-16-10-07 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8762 (http) with context path ''
+2018-11-16-10-07 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration] [INFO] - Updating port to 8762
+2018-11-16-10-07 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - Started CloudProviderApplication in 19.638 seconds (JVM running for 20.402)
+2018-11-16-10-07 [http-nio-8762-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Initializing Servlet 'dispatcherServlet'
+2018-11-16-10-07 [http-nio-8762-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Completed initialization in 15 ms
+2018-11-16-10-11 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-10-22 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-10-27 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-10-32 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-10-37 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-10-38 [Thread-51] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Unregistering application eureka-provider with eureka with status DOWN
+2018-11-16-10-38 [Thread-51] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1542335887455, current=DOWN, previous=UP]
+2018-11-16-10-38 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-10-38 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-10-38 [Thread-51] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Waiting for workers to finish.
+2018-11-16-10-38 [Thread-51] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Successfully waited for workers to finish.
+2018-11-16-10-38 [Thread-51] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Waiting for workers to finish.
+2018-11-16-11-12 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.13.Final
+2018-11-16-11-12 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-11-12 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$f71bd856] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-12 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-11-12 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2018-11-16-11-12 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - The following profiles are active: test
+2018-11-16-11-12 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-16-11-12 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-11-16-11-12 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2018-11-16-11-12 [restartedMain] [org.springframework.cloud.context.scope.GenericScope] [INFO] - BeanFactory id=29aef68b-d086-3662-951b-9ad60a24bb0d
+2018-11-16-11-12 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$a16d9387] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-12 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$db01d559] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-12 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'redisConfig' of type [com.cloud.provider.redis.RedisConfig$$EnhancerBySpringCGLIB$$8ba3a011] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-12 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$f71bd856] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-12 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8762 (http)
+2018-11-16-11-12 [restartedMain] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 2240 ms
+2018-11-16-11-12 [restartedMain] [org.springframework.boot.web.servlet.ServletRegistrationBean] [INFO] - Servlet dispatcherServlet mapped to [/]
+2018-11-16-11-12 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-16-11-12 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-16-11-12 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-16-11-12 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-16-11-12 [restartedMain] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [INFO] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2018-11-16-11-12 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-11-12 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-11-12 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-11-12 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-11-12 [restartedMain] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-16-11-12 [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [INFO] - LiveReload server is running on port 35729
+2018-11-16-11-12 [restartedMain] [org.springframework.cloud.netflix.eureka.InstanceInfoFactory] [INFO] - Setting initial instance status as: STARTING
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1542337958462 with initial instances count: 0
+2018-11-16-11-12 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Registering application eureka-provider with eureka with status UP
+2018-11-16-11-12 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1542337958675, current=UP, previous=STARTING]
+2018-11-16-11-12 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-11-12 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2018-11-16-11-12 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2018-11-16-11-12 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2018-11-16-11-12 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-11-12 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Attempting to connect to: [127.0.0.1:5672]
+2018-11-16-11-12 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Created new connection: rabbitConnectionFactory#7af140c3:0/SimpleConnection@729134f6 [delegate=amqp://guest@127.0.0.1:5672/, localPort= 50607]
+2018-11-16-11-12 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-12 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-12 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-12 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-12 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-12 [restartedMain] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Broker not available; cannot force queue declarations during start
+2018-11-16-11-12 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8762 (http) with context path ''
+2018-11-16-11-12 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration] [INFO] - Updating port to 8762
+2018-11-16-11-12 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - Started CloudProviderApplication in 19.709 seconds (JVM running for 20.477)
+2018-11-16-11-13 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2018-11-16-11-13 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2018-11-16-11-13 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2018-11-16-11-13 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2018-11-16-11-13 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2018-11-16-11-13 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: false
+2018-11-16-11-13 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2018-11-16-11-13 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2018-11-16-11-17 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-11-19 [Thread-51] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Unregistering application eureka-provider with eureka with status DOWN
+2018-11-16-11-19 [Thread-51] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1542338380992, current=DOWN, previous=UP]
+2018-11-16-11-19 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-11-19 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient] [ERROR] - Request execution error
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused (Connection refused)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.post(WebResource.java:570)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.register(AbstractJerseyEurekaHttpClient.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:829)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:121)
+	at com.netflix.discovery.InstanceInfoReplicator$1.run(InstanceInfoReplicator.java:101)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 29 more
+2018-11-16-11-19 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient] [WARN] - Request execution failed with message: java.net.ConnectException: Connection refused (Connection refused)
+2018-11-16-11-19 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient] [ERROR] - Request execution error
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused (Connection refused)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.post(WebResource.java:570)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.register(AbstractJerseyEurekaHttpClient.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:118)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:829)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:121)
+	at com.netflix.discovery.InstanceInfoReplicator$1.run(InstanceInfoReplicator.java:101)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 30 more
+2018-11-16-11-19 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient] [WARN] - Request execution failed with message: java.net.ConnectException: Connection refused (Connection refused)
+2018-11-16-11-19 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [WARN] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration failed Cannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:829)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:121)
+	at com.netflix.discovery.InstanceInfoReplicator$1.run(InstanceInfoReplicator.java:101)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2018-11-16-11-19 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.InstanceInfoReplicator] [WARN] - There was a problem with the instance info replicator
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$1.execute(EurekaHttpClientDecorator.java:59)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.register(EurekaHttpClientDecorator.java:56)
+	at com.netflix.discovery.DiscoveryClient.register(DiscoveryClient.java:829)
+	at com.netflix.discovery.InstanceInfoReplicator.run(InstanceInfoReplicator.java:121)
+	at com.netflix.discovery.InstanceInfoReplicator$1.run(InstanceInfoReplicator.java:101)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2018-11-16-11-19 [Thread-51] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Waiting for workers to finish.
+2018-11-16-11-19 [Thread-51] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Successfully waited for workers to finish.
+2018-11-16-11-19 [Thread-51] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Waiting for workers to finish.
+2018-11-16-11-19 [Thread-51] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Successfully waited for workers to finish.
+2018-11-16-11-19 [Thread-51] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Waiting for workers to finish.
+2018-11-16-11-19 [Thread-51] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Successfully waited for workers to finish.
+2018-11-16-11-19 [Thread-51] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Shutdown ignored - container is not active already
+2018-11-16-11-19 [Thread-51] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Shutdown ignored - container is not active already
+2018-11-16-11-19 [Thread-51] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Shutting down ExecutorService 'applicationTaskExecutor'
+2018-11-16-11-19 [Thread-51] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Shutdown ignored - container is not active already
+2018-11-16-11-19 [Thread-51] [com.netflix.discovery.DiscoveryClient] [INFO] - Shutting down DiscoveryClient ...
+2018-11-16-11-19 [Thread-51] [org.springframework.context.annotation.CommonAnnotationBeanPostProcessor] [WARN] - Destroy method on bean with name 'scopedTarget.eurekaClient' threw an exception: org.springframework.beans.factory.BeanCreationNotAllowedException: Error creating bean with name 'eurekaInstanceConfigBean': Singleton bean creation not allowed while singletons of this factory are in destruction (Do not request a bean from a BeanFactory in a destroy method implementation!)
+2018-11-16-11-42 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.13.Final
+2018-11-16-11-42 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-11-42 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$babf22d6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-42 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-11-42 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2018-11-16-11-42 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - The following profiles are active: test
+2018-11-16-11-42 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-16-11-42 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-11-16-11-42 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
+2018-11-16-11-42 [restartedMain] [org.springframework.cloud.context.scope.GenericScope] [INFO] - BeanFactory id=7435571a-1a95-32d6-99b0-b6a33d39710d
+2018-11-16-11-42 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$6510de07] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-42 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9ea51fd9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-42 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'redisConfig' of type [com.cloud.provider.redis.RedisConfig$$EnhancerBySpringCGLIB$$4f46ea91] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-42 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$babf22d6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-42 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8762 (http)
+2018-11-16-11-42 [restartedMain] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 3049 ms
+2018-11-16-11-42 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-16-11-42 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'tracingFilter' to: [/*]
+2018-11-16-11-42 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'exceptionLoggingFilter' to: [/*]
+2018-11-16-11-42 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-16-11-42 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-16-11-42 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-16-11-42 [restartedMain] [org.springframework.boot.web.servlet.ServletRegistrationBean] [INFO] - Servlet dispatcherServlet mapped to [/]
+2018-11-16-11-42 [restartedMain] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [INFO] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2018-11-16-11-42 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-11-42 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-11-42 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-11-42 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-11-42 [restartedMain] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-16-11-42 [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [INFO] - LiveReload server is running on port 35729
+2018-11-16-11-42 [restartedMain] [org.springframework.cloud.netflix.eureka.InstanceInfoFactory] [INFO] - Setting initial instance status as: STARTING
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1542339753241 with initial instances count: 0
+2018-11-16-11-42 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Registering application eureka-provider with eureka with status UP
+2018-11-16-11-42 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1542339753606, current=UP, previous=STARTING]
+2018-11-16-11-42 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-11-42 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2018-11-16-11-42 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2018-11-16-11-42 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2018-11-16-11-42 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-11-42 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Attempting to connect to: [127.0.0.1:5672]
+2018-11-16-11-42 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Created new connection: rabbitConnectionFactory#44136ee0:0/SimpleConnection@67c2ea94 [delegate=amqp://guest@127.0.0.1:5672/, localPort= 51870]
+2018-11-16-11-42 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-42 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-42 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-42 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-42 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-42 [restartedMain] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Broker not available; cannot force queue declarations during start
+2018-11-16-11-42 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8762 (http) with context path ''
+2018-11-16-11-42 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration] [INFO] - Updating port to 8762
+2018-11-16-11-42 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - Started CloudProviderApplication in 22.502 seconds (JVM running for 23.351)
+2018-11-16-11-43 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2018-11-16-11-43 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2018-11-16-11-43 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2018-11-16-11-43 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2018-11-16-11-43 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2018-11-16-11-43 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: false
+2018-11-16-11-43 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2018-11-16-11-43 [DiscoveryClient-CacheRefreshExecutor-0] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2018-11-16-11-47 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-11-52 [Thread-55] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Unregistering application eureka-provider with eureka with status DOWN
+2018-11-16-11-52 [Thread-55] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1542340351740, current=DOWN, previous=UP]
+2018-11-16-11-52 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-11-52 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-11-52 [Thread-55] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Waiting for workers to finish.
+2018-11-16-11-52 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.13.Final
+2018-11-16-11-52 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-11-52 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$88cbbd14] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-52 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-11-52 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2018-11-16-11-52 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - The following profiles are active: test
+2018-11-16-11-52 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-16-11-52 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-11-16-11-52 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 18ms. Found 0 repository interfaces.
+2018-11-16-11-52 [restartedMain] [org.springframework.cloud.context.scope.GenericScope] [INFO] - BeanFactory id=7435571a-1a95-32d6-99b0-b6a33d39710d
+2018-11-16-11-52 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$331d7845] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-52 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6cb1ba17] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-52 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'redisConfig' of type [com.cloud.provider.redis.RedisConfig$$EnhancerBySpringCGLIB$$1d5384cf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-52 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$88cbbd14] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-52 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8762 (http)
+2018-11-16-11-52 [restartedMain] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 2994 ms
+2018-11-16-11-52 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-16-11-52 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'tracingFilter' to: [/*]
+2018-11-16-11-52 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'exceptionLoggingFilter' to: [/*]
+2018-11-16-11-52 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-16-11-52 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-16-11-52 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-16-11-52 [restartedMain] [org.springframework.boot.web.servlet.ServletRegistrationBean] [INFO] - Servlet dispatcherServlet mapped to [/]
+2018-11-16-11-52 [restartedMain] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [INFO] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2018-11-16-11-52 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-11-52 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-11-52 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-11-52 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-11-52 [restartedMain] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-16-11-52 [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [INFO] - LiveReload server is running on port 35729
+2018-11-16-11-52 [restartedMain] [org.springframework.cloud.netflix.eureka.InstanceInfoFactory] [INFO] - Setting initial instance status as: STARTING
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1542340366202 with initial instances count: 1
+2018-11-16-11-52 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Registering application eureka-provider with eureka with status UP
+2018-11-16-11-52 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1542340367358, current=UP, previous=STARTING]
+2018-11-16-11-52 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-11-52 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2018-11-16-11-52 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2018-11-16-11-52 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-11-52 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2018-11-16-11-52 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Attempting to connect to: [127.0.0.1:5672]
+2018-11-16-11-52 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Created new connection: rabbitConnectionFactory#82fec37:0/SimpleConnection@1b35f442 [delegate=amqp://guest@127.0.0.1:5672/, localPort= 52249]
+2018-11-16-11-52 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-52 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-52 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-52 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-52 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-52 [restartedMain] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Broker not available; cannot force queue declarations during start
+2018-11-16-11-53 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8762 (http) with context path ''
+2018-11-16-11-53 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration] [INFO] - Updating port to 8762
+2018-11-16-11-53 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - Started CloudProviderApplication in 24.918 seconds (JVM running for 25.699)
+2018-11-16-11-53 [http-nio-8762-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Initializing Servlet 'dispatcherServlet'
+2018-11-16-11-53 [http-nio-8762-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Completed initialization in 28 ms
+2018-11-16-11-53 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：helloWorld
+2018-11-16-11-53 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.HelloWorldController
+2018-11-16-11-53 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[]
+2018-11-16-11-53 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : []
+2018-11-16-11-53 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.HelloWorldController.helloWorld
+2018-11-16-11-53 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/helloWorld
+2018-11-16-11-53 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2018-11-16-11-53 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2018-11-16-11-53 [http-nio-8762-exec-3] [com.cloud.provider.controller.rest.HelloWorldController] [INFO] - 前台日志：HelloWorld---port:8762
+2018-11-16-11-56 [Thread-61] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Unregistering application eureka-provider with eureka with status DOWN
+2018-11-16-11-56 [Thread-61] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1542340564885, current=DOWN, previous=UP]
+2018-11-16-11-56 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-11-56 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-11-56 [Thread-61] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Waiting for workers to finish.
+2018-11-16-11-56 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.13.Final
+2018-11-16-11-56 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-11-56 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$a21e48d9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-56 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-11-56 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2018-11-16-11-56 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - The following profiles are active: test
+2018-11-16-11-56 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-16-11-56 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-11-16-11-56 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2018-11-16-11-56 [restartedMain] [org.springframework.cloud.context.scope.GenericScope] [INFO] - BeanFactory id=7435571a-1a95-32d6-99b0-b6a33d39710d
+2018-11-16-11-56 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$4c70040a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-56 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$860445dc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-56 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'redisConfig' of type [com.cloud.provider.redis.RedisConfig$$EnhancerBySpringCGLIB$$36a61094] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-56 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$a21e48d9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-11-56 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8762 (http)
+2018-11-16-11-56 [restartedMain] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 2322 ms
+2018-11-16-11-56 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-16-11-56 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'tracingFilter' to: [/*]
+2018-11-16-11-56 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'exceptionLoggingFilter' to: [/*]
+2018-11-16-11-56 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-16-11-56 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-16-11-56 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-16-11-56 [restartedMain] [org.springframework.boot.web.servlet.ServletRegistrationBean] [INFO] - Servlet dispatcherServlet mapped to [/]
+2018-11-16-11-56 [restartedMain] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [INFO] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2018-11-16-11-56 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-11-56 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-11-56 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-11-56 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-11-56 [restartedMain] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-16-11-56 [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [INFO] - LiveReload server is running on port 35729
+2018-11-16-11-56 [restartedMain] [org.springframework.cloud.netflix.eureka.InstanceInfoFactory] [INFO] - Setting initial instance status as: STARTING
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1542340577499 with initial instances count: 1
+2018-11-16-11-56 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Registering application eureka-provider with eureka with status UP
+2018-11-16-11-56 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1542340577847, current=UP, previous=STARTING]
+2018-11-16-11-56 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-11-56 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2018-11-16-11-56 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2018-11-16-11-56 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-11-56 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2018-11-16-11-56 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Attempting to connect to: [127.0.0.1:5672]
+2018-11-16-11-56 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Created new connection: rabbitConnectionFactory#1fe424cb:0/SimpleConnection@41f835f1 [delegate=amqp://guest@127.0.0.1:5672/, localPort= 52345]
+2018-11-16-11-56 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-56 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-56 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-56 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-56 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-11-56 [restartedMain] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Broker not available; cannot force queue declarations during start
+2018-11-16-11-56 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8762 (http) with context path ''
+2018-11-16-11-56 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration] [INFO] - Updating port to 8762
+2018-11-16-11-56 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - Started CloudProviderApplication in 20.162 seconds (JVM running for 20.915)
+2018-11-16-11-56 [http-nio-8762-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Initializing Servlet 'dispatcherServlet'
+2018-11-16-11-56 [http-nio-8762-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Completed initialization in 22 ms
+2018-11-16-11-56 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：helloWorld
+2018-11-16-11-56 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.HelloWorldController
+2018-11-16-11-56 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[]
+2018-11-16-11-56 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : []
+2018-11-16-11-56 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.HelloWorldController.helloWorld
+2018-11-16-11-56 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/helloWorld
+2018-11-16-11-56 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2018-11-16-11-56 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2018-11-16-11-56 [http-nio-8762-exec-1] [com.cloud.provider.controller.rest.HelloWorldController] [INFO] - 前台日志：HelloWorld---port:8762
+2018-11-16-12-01 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：helloWorld
+2018-11-16-12-01 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.HelloWorldController
+2018-11-16-12-01 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[]
+2018-11-16-12-01 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : []
+2018-11-16-12-01 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.HelloWorldController.helloWorld
+2018-11-16-12-01 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/helloWorld
+2018-11-16-12-01 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2018-11-16-12-01 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2018-11-16-12-01 [http-nio-8762-exec-3] [com.cloud.provider.controller.rest.HelloWorldController] [INFO] - 前台日志：HelloWorld---port:8762
+2018-11-16-12-01 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-12-02 [Thread-52] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Unregistering application eureka-provider with eureka with status DOWN
+2018-11-16-12-02 [Thread-52] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1542340944802, current=DOWN, previous=UP]
+2018-11-16-12-02 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-12-02 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-12-02 [Thread-52] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Waiting for workers to finish.
+2018-11-16-12-02 [Thread-52] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Successfully waited for workers to finish.
+2018-11-16-12-02 [Thread-52] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Waiting for workers to finish.
+2018-11-16-12-02 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.13.Final
+2018-11-16-12-02 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-12-02 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'configurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$de132f55] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-12-02 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2018-11-16-12-02 [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [INFO] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2018-11-16-12-02 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - The following profiles are active: test
+2018-11-16-12-02 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Multiple Spring Data modules found, entering strict repository configuration mode!
+2018-11-16-12-02 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Bootstrapping Spring Data repositories in DEFAULT mode.
+2018-11-16-12-02 [restartedMain] [org.springframework.data.repository.config.RepositoryConfigurationDelegate] [INFO] - Finished Spring Data repository scanning in 8ms. Found 0 repository interfaces.
+2018-11-16-12-02 [restartedMain] [org.springframework.cloud.context.scope.GenericScope] [INFO] - BeanFactory id=7435571a-1a95-32d6-99b0-b6a33d39710d
+2018-11-16-12-02 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration' of type [org.springframework.amqp.rabbit.annotation.RabbitBootstrapConfiguration$$EnhancerBySpringCGLIB$$8864ea86] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-12-02 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c1f92c58] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-12-02 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'redisConfig' of type [com.cloud.provider.redis.RedisConfig$$EnhancerBySpringCGLIB$$729af710] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-12-02 [restartedMain] [org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] [INFO] - Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$de132f55] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-11-16-12-02 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8762 (http)
+2018-11-16-12-02 [restartedMain] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 2405 ms
+2018-11-16-12-02 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-11-16-12-02 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'tracingFilter' to: [/*]
+2018-11-16-12-02 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'exceptionLoggingFilter' to: [/*]
+2018-11-16-12-02 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-11-16-12-02 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'formContentFilter' to: [/*]
+2018-11-16-12-02 [restartedMain] [org.springframework.boot.web.servlet.FilterRegistrationBean] [INFO] - Mapping filter: 'requestContextFilter' to: [/*]
+2018-11-16-12-02 [restartedMain] [org.springframework.boot.web.servlet.ServletRegistrationBean] [INFO] - Servlet dispatcherServlet mapped to [/]
+2018-11-16-12-02 [restartedMain] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [INFO] - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2018-11-16-12-02 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-12-02 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-12-02 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [WARN] - No URLs will be polled as dynamic configuration sources.
+2018-11-16-12-02 [restartedMain] [com.netflix.config.sources.URLConfigurationSource] [INFO] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-11-16-12-02 [restartedMain] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+2018-11-16-12-02 [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [INFO] - LiveReload server is running on port 35729
+2018-11-16-12-02 [restartedMain] [org.springframework.cloud.netflix.eureka.InstanceInfoFactory] [INFO] - Setting initial instance status as: STARTING
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Initializing Eureka in region us-east-1
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON encoding codec LegacyJacksonJson
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using JSON decoding codec LegacyJacksonJson
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML encoding codec XStreamXml
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.provider.DiscoveryJerseyProvider] [INFO] - Using XML decoding codec XStreamXml
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Disable delta property : false
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Single vip registry refresh property : null
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Force full registry fetch : false
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application is null : false
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Registered Applications size is zero : true
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Application version is -1: true
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Getting all instance registry info from the eureka server
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - The response status is 200
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Starting heartbeat executor: renew interval is: 30
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.InstanceInfoReplicator] [INFO] - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Discovery Client initialized at timestamp 1542340958268 with initial instances count: 1
+2018-11-16-12-02 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Registering application eureka-provider with eureka with status UP
+2018-11-16-12-02 [restartedMain] [com.netflix.discovery.DiscoveryClient] [INFO] - Saw local status change event StatusChangeEvent [timestamp=1542340958609, current=UP, previous=STARTING]
+2018-11-16-12-02 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-12-02 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Context refreshed
+2018-11-16-12-02 [restartedMain] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [INFO] - Found 1 custom documentation plugin(s)
+2018-11-16-12-02 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
+2018-11-16-12-02 [restartedMain] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [INFO] - Scanning for api listing references
+2018-11-16-12-02 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Attempting to connect to: [127.0.0.1:5672]
+2018-11-16-12-02 [restartedMain] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [INFO] - Created new connection: rabbitConnectionFactory#1777a847:0/SimpleConnection@5f93959c [delegate=amqp://guest@127.0.0.1:5672/, localPort= 52644]
+2018-11-16-12-02 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-12-02 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-12-02 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-12-02 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-12-02 [AMQP Connection 127.0.0.1:5672] [org.springframework.amqp.rabbit.connection.CachingConnectionFactory] [ERROR] - Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'topicExchange' in vhost '/': received 'direct' but current is 'topic', class-id=40, method-id=10)
+2018-11-16-12-02 [restartedMain] [org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer] [INFO] - Broker not available; cannot force queue declarations during start
+2018-11-16-12-02 [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8762 (http) with context path ''
+2018-11-16-12-02 [restartedMain] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration] [INFO] - Updating port to 8762
+2018-11-16-12-02 [restartedMain] [com.cloud.provider.CloudProviderApplication] [INFO] - Started CloudProviderApplication in 20.414 seconds (JVM running for 21.204)
+2018-11-16-12-02 [http-nio-8762-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Initializing Servlet 'dispatcherServlet'
+2018-11-16-12-02 [http-nio-8762-exec-1] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Completed initialization in 22 ms
+2018-11-16-12-02 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：helloWorld
+2018-11-16-12-02 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.HelloWorldController
+2018-11-16-12-02 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[]
+2018-11-16-12-02 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : []
+2018-11-16-12-02 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.HelloWorldController.helloWorld
+2018-11-16-12-02 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/helloWorld
+2018-11-16-12-02 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2018-11-16-12-02 [http-nio-8762-exec-1] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2018-11-16-12-02 [http-nio-8762-exec-1] [com.cloud.provider.controller.rest.HelloWorldController] [INFO] - 前台日志：HelloWorld---port:8762
+2018-11-16-13-37 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：helloWorld
+2018-11-16-13-37 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.HelloWorldController
+2018-11-16-13-37 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[]
+2018-11-16-13-37 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : []
+2018-11-16-13-37 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.HelloWorldController.helloWorld
+2018-11-16-13-37 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/helloWorld
+2018-11-16-13-37 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2018-11-16-13-37 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2018-11-16-13-37 [http-nio-8762-exec-3] [com.cloud.provider.controller.rest.HelloWorldController] [INFO] - 前台日志：HelloWorld---port:8762
+2018-11-16-13-39 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-13-39 [http-nio-8762-exec-5] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：helloWorld
+2018-11-16-13-39 [http-nio-8762-exec-5] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.HelloWorldController
+2018-11-16-13-39 [http-nio-8762-exec-5] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[]
+2018-11-16-13-39 [http-nio-8762-exec-5] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : []
+2018-11-16-13-39 [http-nio-8762-exec-5] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.HelloWorldController.helloWorld
+2018-11-16-13-39 [http-nio-8762-exec-5] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://192.168.1.75:8762/V1.0/helloWorld
+2018-11-16-13-39 [http-nio-8762-exec-5] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2018-11-16-13-39 [http-nio-8762-exec-5] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 192.168.1.75
+2018-11-16-13-39 [http-nio-8762-exec-5] [com.cloud.provider.controller.rest.HelloWorldController] [INFO] - 前台日志：HelloWorld---port:8762
+2018-11-16-13-39 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：helloWorld
+2018-11-16-13-39 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.HelloWorldController
+2018-11-16-13-39 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[]
+2018-11-16-13-39 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : []
+2018-11-16-13-39 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.HelloWorldController.helloWorld
+2018-11-16-13-39 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://192.168.1.75:8762/V1.0/helloWorld
+2018-11-16-13-39 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2018-11-16-13-39 [http-nio-8762-exec-7] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 192.168.1.75
+2018-11-16-13-39 [http-nio-8762-exec-7] [com.cloud.provider.controller.rest.HelloWorldController] [INFO] - 前台日志：HelloWorld---port:8762
+2018-11-16-13-39 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：helloWorld
+2018-11-16-13-39 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.HelloWorldController
+2018-11-16-13-39 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[]
+2018-11-16-13-39 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : []
+2018-11-16-13-39 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.HelloWorldController.helloWorld
+2018-11-16-13-39 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/helloWorld
+2018-11-16-13-39 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2018-11-16-13-39 [http-nio-8762-exec-8] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2018-11-16-13-39 [http-nio-8762-exec-8] [com.cloud.provider.controller.rest.HelloWorldController] [INFO] - 前台日志：HelloWorld---port:8762
+2018-11-16-13-43 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：helloWorld
+2018-11-16-13-43 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.HelloWorldController
+2018-11-16-13-43 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[]
+2018-11-16-13-43 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : []
+2018-11-16-13-43 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.HelloWorldController.helloWorld
+2018-11-16-13-43 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://192.168.1.75:8762/V1.0/helloWorld
+2018-11-16-13-43 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2018-11-16-13-43 [http-nio-8762-exec-2] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 192.168.1.75
+2018-11-16-13-43 [http-nio-8762-exec-2] [com.cloud.provider.controller.rest.HelloWorldController] [INFO] - 前台日志：HelloWorld---port:8762
+2018-11-16-13-43 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：helloWorld
+2018-11-16-13-43 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.HelloWorldController
+2018-11-16-13-43 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[]
+2018-11-16-13-43 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : []
+2018-11-16-13-43 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.HelloWorldController.helloWorld
+2018-11-16-13-43 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://localhost:8762/V1.0/helloWorld
+2018-11-16-13-43 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2018-11-16-13-43 [http-nio-8762-exec-3] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 0:0:0:0:0:0:0:1
+2018-11-16-13-43 [http-nio-8762-exec-3] [com.cloud.provider.controller.rest.HelloWorldController] [INFO] - 前台日志：HelloWorld---port:8762
+2018-11-16-13-43 [http-nio-8762-exec-4] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法：helloWorld
+2018-11-16-13-43 [http-nio-8762-exec-4] [com.cloud.provider.aop.WebLogAspect] [INFO] - 方法所在包:com.cloud.provider.controller.rest.HelloWorldController
+2018-11-16-13-43 [http-nio-8762-exec-4] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数名：[]
+2018-11-16-13-43 [http-nio-8762-exec-4] [com.cloud.provider.aop.WebLogAspect] [INFO] - 参数值ARGS : []
+2018-11-16-13-43 [http-nio-8762-exec-4] [com.cloud.provider.aop.WebLogAspect] [INFO] - CLASS_METHOD : com.cloud.provider.controller.rest.HelloWorldController.helloWorld
+2018-11-16-13-43 [http-nio-8762-exec-4] [com.cloud.provider.aop.WebLogAspect] [INFO] - URL : http://192.168.1.75:8762/V1.0/helloWorld
+2018-11-16-13-43 [http-nio-8762-exec-4] [com.cloud.provider.aop.WebLogAspect] [INFO] - HTTP_METHOD : GET
+2018-11-16-13-43 [http-nio-8762-exec-4] [com.cloud.provider.aop.WebLogAspect] [INFO] - IP : 192.168.1.75
+2018-11-16-13-43 [http-nio-8762-exec-4] [com.cloud.provider.controller.rest.HelloWorldController] [INFO] - 前台日志：HelloWorld---port:8762
+2018-11-16-13-44 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-13-49 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-13-54 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-13-59 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-14-04 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-14-09 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-14-14 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-14-19 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-14-24 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-14-29 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-14-34 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-14-39 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-14-44 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-14-49 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-14-54 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-14-59 [AsyncResolver-bootstrap-executor-0] [com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver] [INFO] - Resolving eureka endpoints via configuration
+2018-11-16-15-02 [Thread-52] [org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry] [INFO] - Unregistering application eureka-provider with eureka with status DOWN
+2018-11-16-15-02 [Thread-52] [com.netflix.discovery.DiscoveryClient] [WARN] - Saw local status change event StatusChangeEvent [timestamp=1542351754263, current=DOWN, previous=UP]
+2018-11-16-15-02 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762: registering service...
+2018-11-16-15-02 [DiscoveryClient-InstanceInfoReplicator-0] [com.netflix.discovery.DiscoveryClient] [INFO] - DiscoveryClient_EUREKA-PROVIDER/192.168.1.75:eureka-provider:8762 - registration status: 204
